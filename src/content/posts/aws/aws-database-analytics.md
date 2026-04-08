@@ -3,7 +3,7 @@ title: 📊 AWS Database & Data Analytics
 published: 2026-03-22
 tags: [AWS, Cloud, Certificates]
 category: AWS
-draft: true
+draft: false
 ---
 # 📊 AWS Database & Data Analytics
 

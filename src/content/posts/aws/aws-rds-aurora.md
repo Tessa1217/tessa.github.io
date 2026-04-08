@@ -3,7 +3,7 @@ title: 🗄️ AWS RDS & Aurora (관계형 데이터베이스)
 published: 2026-03-18
 tags: [AWS, Cloud, Certificates]
 category: AWS
-draft: true
+draft: false
 ---
 # 🗄️ AWS RDS & Aurora (관계형 데이터베이스)
 

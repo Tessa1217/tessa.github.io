@@ -3,7 +3,7 @@ title: 📘 AWS DB 백서 (Whitepaper Summary)
 published: 2026-03-27
 tags: [AWS, Cloud, Certificates]
 category: AWS
-draft: true
+draft: false
 ---
 # 📘 AWS DB 백서 (Whitepaper Summary)
 

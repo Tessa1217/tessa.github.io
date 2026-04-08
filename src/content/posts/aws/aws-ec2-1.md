@@ -3,7 +3,7 @@ title: 🖥️ AWS EC2 (Elastic Compute Cloud)
 published: 2026-03-16
 tags: [AWS, Cloud, Certificates]
 category: AWS
-draft: true
+draft: false
 ---
 # 🖥️ AWS EC2 (Elastic Compute Cloud)
 
